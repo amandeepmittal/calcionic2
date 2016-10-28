@@ -1,4 +1,5 @@
-Ionic App Base
+# Calcionic
+Basic Calculator using Ionic Framework(v.1.2.4)
 =====================
 
 A starting project for Ionic that optionally supports using custom SCSS.
@@ -16,7 +17,7 @@ $ npm install -g ionic
 Then run:
 
 ```bash
-$ ionic start myProject tabs
+$ ionic start myProject blank
 ```
 
 More info on this can be found on the Ionic [Getting Started](http://ionicframework.com/getting-started) page and the [Ionic CLI](https://github.com/driftyco/ionic-cli) repo.
