@@ -1,4 +1,6 @@
 # Calcionic
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/amandeepmittal/calcionic2.svg)](https://greenkeeper.io/)
 Basic Calculator using Ionic Framework(v.1.2.4)
 =====================
 
